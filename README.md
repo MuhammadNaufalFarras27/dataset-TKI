@@ -1,4 +1,4 @@
-# dataset-TKI
+# About dataset
 
 Dataset ini adalah dataset Putusan Mahkamah Agung mengenai Kasus Narkotika dan Psikotropika di Pengadilan Negeri Pontianak. Dataset ini diambil dari direktori situs putusan mahkamah agung pada direktori pidana khusus dan klasifikasi narkotika dan psikotropika. Dataset ini berisi 50 instance atau 50 putusan mahkamah agung dari pengadilan negeri pontianak dan mencakup beberapa atribut penting diantaranya sebagai berikut
 
